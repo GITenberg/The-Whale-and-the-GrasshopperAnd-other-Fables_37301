@@ -1,0 +1,37 @@
+_repo: The-Whale-and-the-GrasshopperAnd-other-Fables_37301
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: McCraig, Robert
+    gutenberg_agent_id: '38759'
+    url: http://www.gutenberg.org/2009/agents/38759
+covers:
+- cover_type: archival
+  image_path: 37301-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: O'Brien, Seumas
+    birthdate: 1880
+    gutenberg_agent_id: '4154'
+    url: http://www.gutenberg.org/2009/agents/4154
+description: ''
+gutenberg_issued: '2011-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37301'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fables, Irish'
+tableOfContents: The whale and the grasshopper -- The house in the valley -- Peace
+  and war -- The valley of the dead -- The King of Montobewlo -- The dilemma of Matty
+  the Goat -- Ham and eggs -- The White Horse of Banba -- Rebellions -- Kings and
+  commoners -- The folly of being foolish -- The lady of the moon -- A bargain of
+  bargains -- Shauno and the Shah -- The Mayor of Loughlaurna -- The land of peace
+  and plenty -- The linnet with the crown of gold -- The man with the wooden leg --
+  The hermit of the Grove -- The King of Goulnaspurra.
+title: The Whale and the Grasshopper, and Other Fables
+url: http://www.gutenberg.org/ebooks/37301
